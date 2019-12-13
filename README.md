@@ -8,6 +8,6 @@ Moreover, it uses `std::shared_ptr` for dynamic memory management, so you can be
 
 ## TODO 
 
-[ ] Create `std::basic_string` like outerior class
-[ ] Introduce `iterator` for this structure
-[ ] Support `RandomAccessIterator` with `O(log n)` total cost for shifting
+- [ ] Create `std::basic_string` like outerior class
+- [ ] Introduce `iterator` for this structure
+- [ ] Support `RandomAccessIterator` with `O(log n)` total cost for shifting
